@@ -1,0 +1,86 @@
+/* .habilidades .box {
+    padding: 40px;
+}
+
+.habilidades .box h2 {
+    margin: 20px 0 20px 0;
+}
+
+.habilidades .box p {
+    word-spacing: 2px;
+    transition: 0.5s;
+}
+
+.habilidades .box i {
+    font-size: 30px;
+    margin-top: 20px;
+    transition: 0.5s;
+    opacity: 0;
+}
+
+.habilidades .box:hover p {
+    color: #fff;
+}
+
+.habilidades .box i {
+    opacity: 1;
+}
+
+@media screen and (max-width: 480px) {
+    .habilidades .box {
+      }
+
+
+} */
+
+.habilidades .box h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.habilidades .box h4 {
+    font-size: 28px;
+}
+.habilidades .box p {
+    margin-left: 32px;
+}
+
+.habilidades .box p {
+    font-size: 28px;
+    word-spacing: 2px;
+    transition: 0.5s;
+}
+
+.habilidades .box i {
+    font-size: 28px;
+    margin-top: 20px;
+    transition: 0.5s;
+    opacity: 0;
+}
+
+.habilidades .box:hover p {
+    color: #fff;
+}
+
+.habilidades .box i {
+    opacity: 1;
+}
+
+@media screen and (max-width: 480px) {
+    .habilidades .box h1 {
+        font-size: 21px;
+        text-align: center;
+    }
+
+    .habilidades .box h4 {
+        font-size: 14px;
+    }
+    .habilidades .box p {
+        font-size: 14px;
+        margin-left: 18px;
+    }
+
+    .habilidades .box i {
+        font-size: 14px;
+    }
+}

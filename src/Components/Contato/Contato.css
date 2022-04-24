@@ -1,0 +1,65 @@
+.Contato .left {
+  width: 36%;
+}
+  
+.Contato .right {
+  width: 60%;
+}
+  
+.Contato .box {
+  padding: 32px;           /* Equivalente a 32px */
+}
+  
+.Contato .details h1 {
+  margin: 20px 0 20px 0;
+  font-size: 35px;      /* Equivalente a 35px */
+}
+  
+.Contato .details p {
+  font-size: 30px;      /* Equivalente a 30px */
+}
+  
+.Contato .button {
+  margin-top: 20px;    /* Equivalente a 20px */
+}
+  
+.Contato button {
+  margin-right: 20px;  /* Equivalente a 20px */
+}
+  
+.Contato .right {
+  padding: 35px;          /* Equivalente a 35px */
+}
+  
+.Contato .input span {
+  font-size: 13px;          /* Equivalente a 13px */
+}
+  
+.Contato input {
+  margin-top: 10px;           /* Equivalente a 10px */
+}
+  
+.Contato .right button {
+  width: 100%;
+  color: #00BFFF;
+}
+  
+.Contato .right button:hover {
+  color: #FFF;
+}
+  
+.Contato .right button i {
+  margin-left: 10px;             /* Equivalente a 10px */
+}
+  
+@media screen and (max-width: 480px) {
+  .Contato .d_flex {
+    flex-direction: column;
+  }
+    
+  .Contato .left,
+  .Contato .right {
+    width: 100%;
+    margin-top: 50px;               /* Equivalente a 50px */
+  }
+}
